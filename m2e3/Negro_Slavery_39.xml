@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="000style.xsl"?>
+<teiCorpus>
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Digitised and Encoded copy of Negro Slavery by Zachary MacAulay</title>
+            </titleStmt>
+            <publicationStmt>
+                <authority>Transcribed from digital copy available from Recovered Histories at
+                    http://www.recoveredhistories.org/pamphlet1.php?page=1&amp;orderby=MaxID&amp;catid=66</authority>
+            </publicationStmt>
+            <sourceDesc>
+                <biblFull>
+                    <titleStmt>
+                        <title>Negro Slavery; or, A View of Some of the More Prominent Features of
+                            that State of Society, as it Exists in the United States of America and
+                            in the Colonies of the West Indies, Especially in Jamaica</title>
+                    </titleStmt>
+                    <publicationStmt>
+                        <publisher>Printed for Hatchard and Son, Piccadilly, and J. and A. Arch,
+                            Cornhill</publisher>
+                        <distributor>Sold Also by W. Graphel, Church street, and G. and J. Robison,
+                            Castle Street, Liverpool.</distributor>
+                        <date when="1823">1823</date>
+                        <pubPlace>
+                            <settlement>London</settlement>
+                        </pubPlace>
+                    </publicationStmt>
+                </biblFull>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <TEI>
+        <teiHeader>
+            <fileDesc>
+                <titleStmt>
+                    <title/>
+                </titleStmt>
+                <publicationStmt>
+                    <authority>Transcribed by a student of Digital History at Sheffield Hallam
+                        University</authority>
+                </publicationStmt>
+                <sourceDesc>
+                    <bibl>
+                        <biblScope>39</biblScope>
+                    </bibl>
+                </sourceDesc>
+            </fileDesc>
+        </teiHeader>
+        <text>
+            <body>
+                <p>
+                    <placeName key="America" ref="https://en.wikipedia.org/wiki/Americas">America</placeName> than in the
+                    <placeName key="West Indies" ref="https://en.wikipedia.org/wiki/West_Indies">West Indies</placeName>, where labour is
+                    usually performed by gangs under the immediate impulse of the lash. Besides which, the Black and Coloured population have readier access to the means of religious instruction in <placeName key="America" ref="https://en.wikipedia.org/wiki/Americas">America</placeName> than in our colonies*.
+                </p>
+
+                <p>
+                    * That the treatment of the slaves in the
+                    <placeName key="British colonies" ref="https://en.wikipedia.org/wiki/British_Empire">British colonies</placeName>
+                    must be much more oppressive than it is even in the
+                    <placeName key="United States" ref="https://en.wikipedia.org/wiki/United_States">United States</placeName>,
+                    would seem to be established beyond controversy by the following comparative statement of the Negro population of <placeName key="Jamaica" ref="https://en.wikipedia.org/wiki/Jamaica">Jamaica</placeName>
+                    and of the <placeName key="United States" ref="https://en.wikipedia.org/wiki/United_States">United States</placeName>,
+                    in the years 1790 and 1820.</p>
+
+                <p>
+                    In 1790, the number of slaves in
+                    <placeName key="Jamaica" ref="https://en.wikipedia.org/wiki/Jamaica">Jamaica</placeName>
+                    is stated by
+                    <persName key="Edwards, Bryan" from="1743" to="1800" role="Jamaican planter and politician" ref="http://rsnr.royalsocietypublishing.org/content/54/2/215">Bryan Edwards</persName> at
+                    <interp key="book" n="Edwards, Bryan, and William Young. The History of the British Colonies in the West Indies. Printed    for J. Stockdale, 1801." cert="medium" ref="https://archive.org/details/historycivilcomm04edwa">250,000, which, however, he considered under-rated.
+                    </interp>
+                </p>
+
+                <p>
+                    In 1810, from the calculations founded on the
+                    <interp key="Government Document" n="unknown" cert="high" ref="unknown">Reports
+                    </interp> of the Assembly of
+                    <placeName key="Jamaica" ref="https://en.wikipedia.org/wiki/Jamaica">Jamaica</placeName>,
+                    they must have been about 320,000. - In 1817, they were rated, on what was affirmed to be a
+                    more accurate census, at 345,252, being an addition of only 95,252, in the whole of that period;
+                     and yet from the year appear to have been added by importation from
+                     <placeName key="Africa" ref="https://en.wikipedia.org/wiki/Africa">Africa</placeName>
+                     to the stock in that
+                     <placeName key="Jamaica" ref="https://en.wikipedia.org/wiki/Jamaica">island</placeName>,
+                     though the commencement of that importation is four years prior to 1791; yet this will
+                     probably be counterbalanced by the admitted inaccuracy of the returns in 1791.
+                 </p>
+
+                <p>
+                    In the year 1790, the slave population of the whole of the
+                    <placeName key="United States" ref="https://en.wikipedia.org/wiki/United_States">United States</placeName>
+                    was 676,696. In the year 1800 it was 894,444. In 1810 1,191,364. In 1820 1,531,431.
+                </p>
+
+                <p>
+                    The natural increase would have appeared to be considerably greater, if 174,142 has not been added
+                    to the free Blacks during that period, about 100,000 of them by manumission. - We see that between
+                    1790 and 1800 the rate of increase was 28.25 per cent. Between 1800 and 1810 33.125 per cent. And
+                    between 1810 and 1820 28.5 per cent.
+                </p>
+
+                <p>
+                    The small difference in the increase from 1800 to 1810 must be attributed to the partial importation from
+                    <placeName key="Africa" ref="https://en.wikipedia.org/wiki/Africa">Africa</placeName>
+                    during a short part of that period, but this will be far more than counterbalanced by the number manumitted.
+                </p>
+
+                <p>
+                    In 1790, then,
+                    <placeName key="Jamaica" ref="https://en.wikipedia.org/wiki/Jamaica">Jamaica</placeName>
+                    had a slave population of above 250,000. In 1817 and in 1820, (the number will probably be
+                    found nearly the same in both years,) 345,252. In 1791, the
+                    <placeName key="United States" ref="https://en.wikipedia.org/wiki/United_States">United States</placeName>
+                    slave population was 676,696. In 1820, ditto, ditto, 1,531,431.
+                </p>
+
+                <p>
+                    If a system not more rigorous than the American system had been pursued in
+                    <placeName key="Jamaica" ref="https://en.wikipedia.org/wiki/Jamaica">Jamaica</placeName>,
+                    the population of that
+                    <placeName key="Jamaica" ref="https://en.wikipedia.org/wiki/Jamaica">island</placeName>
+                    ought to have been in the year 1820, 565, 775.
+                </p>
+
+                <p>
+                    With 188,785 added by importation, still the population of
+                    <placeName key="Jamaica" ref="https://en.wikipedia.org/wiki/Jamaica">Jamaica</placeName>
+                    falls 220,523 short of what it ought to have been, making a different altogether
+                </p>
+            </body>
+        </text>
+    </TEI>
+</teiCorpus>
