@@ -1,0 +1,42 @@
+# The Dream Case Record
+
+## Epigraphic Database Heidelberg
+
+For this database, I wanted to find epigraph inscriptions that were made by a regular person. As I looked through the advanced 
+search, I found the option to choose "slaves". I thought this might be an interesting set of data, given the fact that 
+slaves would not be important enough to have their names added to a statue or a building. To narrow down the search results, I decided 
+to also add "Italy" as the modern country. This is because Italy has the most amount of epigraphs associated with slaves.
+
+The results I found were interesting. The majority of inscriptions came from the ancient province of Roma. This is understandable, 
+as it is the capital region of Italy to this day, and it implies that a large percentage of slaves were located there.
+
+The other interesting finding is that about 75 percent of all epigraphs were actually "epitaphs". An epitaph is an inscription
+typically found on a tombstone to commemorate a loved one who has passed away. This makes sense, as tombstones are not nearly
+as expensive or important as a statue or government building. About half of all epigraphs were labeled as "tabula" for type
+of monument. Another quarter were labeled as "steele". So these monuments were almost always tombstones, small stone "tablets" 
+or perhaps pieces of metal with engravings on them. 
+
+A great number of these epigraphs were labeled from around 5 BC to 204 AD. Between these two time periods, there was an average
+of about 75 epigraphs per year. There were some sharp declines in the years 204, 231, 251 and 301 AD. After that, the number of
+epigraphs stayed consistently at 3 epigraphs per year (until 400 AD). It would be interesting to find out why these sudden drops occured by 
+looking at the various provinces in ancient Italy at the time. 
+
+The following is a link to the search: 
+http://edh-www.adw.uni-heidelberg.de/inschrift/statistik?hd_nr=&tm_nr=&land=it&fo_antik=&fo_modern=&fundstelle=&region=&compFundjahr=eq&fundjahr=&aufbewahrung=&inschriftgattung=&sprache=&inschrifttraeger=&compHoehe=eq&hoehe=&compBreite=eq&breite=&compTiefe=eq&tiefe=&bh=&palSchreibtechnik=&dat_tag=&dat_monat=&dat_jahr_a=&dat_jahr_e=&hist_periode=&religion=&literatur=&kommentar=&p_name=&p_praenomen=&p_nomen=&p_cognomen=&p_supernomen=&p_tribus=&p_origo=&p_geschlecht=&p_status=7&compJahre=eq&p_lJahre=&compMonate=eq&p_lMonate=&compTage=eq&p_lTage=&compStunden=eq&p_lStunden=&atext1=&bool=AND&atext2=&sort=hd_nr&anzahl=20
+
+
+## Commwealth War Graves Commission, Find War Dead
+
+When searching for my last name "Tipenko", I could not find any results on this website. I instead tried to search
+for my first name "Alexei" and narrowed down the irrelevant results by putting an "A" in the initials search box.
+
+This search gave me 4 results. Two Alexeis were from the Russian Army. This is unsurprising, as the name has mostly been 
+used in Russia and the Soviet Union. These two men had similar identification numbers and their recorded country of death 
+was Belgium. They were also burried in the same cemetary very close to each other. Based off of this information, its 
+very likely that two soldiers fought side by side and died together. Another Alexei was part of the German Army and died
+in the United Kingdom in 1945. The last name was "Alexeio Piceto" was a cook for the Indian Merchant Navy. His name appeared
+on a memorial in Bombay, whose dates span from 1939 to 1945.
+
+Althought there were only 4 records on my name, the insights found in this database were somewhat insightful.
+
+A downloaded .csv file containing this information can be can be found in the same directory (m2e1).     
