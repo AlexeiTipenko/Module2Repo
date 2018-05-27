@@ -6,9 +6,9 @@ library(magick)
 library(magrittr)
 library(pdftools)
 library(tesseract)
-text <- image_read("~/war-diary/e001518087.jpg") %>% 
+text <- image_read("~/module2repo/war-diary/e001518087.jpg") %>% 
   image_resize("2000") %>% 
   image_convert(colorspace = 'gray') %>% 
   image_trim() %>% 
   image_ocr()
-write.table(text, "~/ocr-test/R.txt")
+write.table(text, "~/module2repo/ocr-test/R.txt")
