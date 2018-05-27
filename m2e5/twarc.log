@@ -1,0 +1,12 @@
+2018-05-27 01:39:10,904 INFO loading main profile from config /home/alexeitipenko/.twarc
+2018-05-27 01:39:44,253 INFO loading main profile from config /home/alexeitipenko/.twarc
+2018-05-27 01:39:44,254 INFO creating http session
+2018-05-27 01:39:44,254 INFO getting ('https://api.twitter.com/1.1/search/tweets.json',) {'params': {'q': 'hist3814o', 'count': 100, 'tweet_mode': 'extended', 'result_type': 'recent'}}
+2018-05-27 01:39:44,671 INFO archived 999673676172857344
+2018-05-27 01:39:44,672 INFO archived 999478419594211328
+2018-05-27 01:39:44,672 INFO archived 999466078530088960
+2018-05-27 01:39:44,672 INFO archived 997829440649379841
+2018-05-27 01:39:44,672 INFO archived 997695491205808129
+2018-05-27 01:39:44,672 INFO archived 997672007415353344
+2018-05-27 01:39:44,672 INFO getting ('https://api.twitter.com/1.1/search/tweets.json',) {'params': {'q': 'hist3814o', 'max_id': '997672007415353343', 'count': 100, 'tweet_mode': 'extended', 'result_type': 'recent'}}
+2018-05-27 01:39:44,785 INFO no new tweets matching {'q': 'hist3814o', 'max_id': '997672007415353343', 'count': 100, 'tweet_mode': 'extended', 'result_type': 'recent'}
