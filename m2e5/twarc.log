@@ -10,3 +10,37 @@
 2018-05-27 01:39:44,672 INFO archived 997672007415353344
 2018-05-27 01:39:44,672 INFO getting ('https://api.twitter.com/1.1/search/tweets.json',) {'params': {'q': 'hist3814o', 'max_id': '997672007415353343', 'count': 100, 'tweet_mode': 'extended', 'result_type': 'recent'}}
 2018-05-27 01:39:44,785 INFO no new tweets matching {'q': 'hist3814o', 'max_id': '997672007415353343', 'count': 100, 'tweet_mode': 'extended', 'result_type': 'recent'}
+2018-05-28 00:48:33,462 INFO loading main profile from config /home/alexeitipenko/.twarc
+2018-05-28 00:48:33,463 ERROR uhoh: Extra data: line 1 column 12 (char 11)
+
+2018-05-28 00:48:33,463 ERROR uhoh: Extra data: line 1 column 6 (char 5)
+
+2018-05-28 00:48:33,463 ERROR uhoh: Extra data: line 1 column 6 (char 5)
+
+2018-05-28 00:48:33,463 ERROR uhoh: Extra data: line 1 column 6 (char 5)
+
+2018-05-28 00:48:33,464 ERROR uhoh: Extra data: line 1 column 6 (char 5)
+
+2018-05-28 00:48:33,464 ERROR uhoh: Expecting value: line 2 column 1 (char 1)
+
+2018-05-28 00:48:33,464 ERROR uhoh: Expecting value: line 1 column 1 (char 0)
+
+2018-05-28 00:48:33,464 ERROR uhoh: Extra data: line 1 column 6 (char 5)
+
+2018-05-28 00:48:33,464 ERROR uhoh: Expecting value: line 2 column 1 (char 1)
+
+2018-05-28 00:48:33,464 ERROR uhoh: Expecting value: line 1 column 1 (char 0)
+
+2018-05-28 00:48:33,464 ERROR uhoh: Extra data: line 1 column 6 (char 5)
+
+2018-05-28 00:48:33,464 ERROR uhoh: Expecting value: line 2 column 1 (char 1)
+
+2018-05-28 00:48:33,464 ERROR uhoh: Expecting value: line 1 column 1 (char 0)
+
+2018-05-28 00:50:58,282 INFO loading main profile from config /home/alexeitipenko/.twarc
+2018-05-28 00:50:58,283 INFO archived 999673676172857344
+2018-05-28 00:50:58,283 INFO archived 999478419594211328
+2018-05-28 00:50:58,284 INFO archived 999466078530088960
+2018-05-28 00:50:58,284 INFO archived 997829440649379841
+2018-05-28 00:50:58,284 INFO archived 997695491205808129
+2018-05-28 00:50:58,284 INFO archived 997672007415353344
