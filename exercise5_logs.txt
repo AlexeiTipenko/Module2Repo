@@ -1,3 +1,18 @@
+# Exercise 5 (Mining twitter)
+
+In this exercise, I have made a twitter account, created a new twitter application, 
+retrieved a variety of keys and used them to gather data containing a hashtag for "hist3814o"
+
+In the following logs, I installed twarc and configured it. I made a search for data containing
+the hist3814o hashtag and piped the data into the search.json file. I then installed a json to 
+csv converter and converted the json file into an out.csv file. 
+
+Note: I had some difficulty with saving certain files into the wrong directory, so I tried using
+the mv command to come the files. I later realized you could do it straight from the file manager.
+
+History Logs:
+
+
     1  history
     2  ls
     3  sudo pip install https://github.com/DocNow/twarc/archive/v1.2.0.tar.gz
